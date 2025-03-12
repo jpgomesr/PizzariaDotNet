@@ -3,10 +3,12 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Pizzaria.Domain.Entity;
 
 namespace Pizzaria.Domain.Service.Interfaces
 {
-    internal interface IPizzaDomainService
+    public interface IPizzaDomainService
     {
+        void Validar(Pizza pizza);
     }
 }

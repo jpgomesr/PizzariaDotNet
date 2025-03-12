@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\joao_pg_rodrigues\\Documents\\Github\\PizzariaDotNet\\Pizzaria\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\joao_pg_rodrigues\\Documents\\Github\\PizzariaDotNet\\Pizzaria\\Pizzaria\\Migrations\\20250312004405_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Pizzaria\\Migrations\\20250312004405_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF4CD6E8-FA8E-4435-AEE4-93E4544B909D}|Pizzaria\\Pizzaria.csproj|c:\\users\\joao_pg_rodrigues\\documents\\github\\pizzariadotnet\\pizzaria\\pizzaria\\app\\services\\pizzaappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF4CD6E8-FA8E-4435-AEE4-93E4544B909D}|Pizzaria\\Pizzaria.csproj|solutionrelative:pizzaria\\app\\services\\pizzaappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{BF4CD6E8-FA8E-4435-AEE4-93E4544B909D}|Pizzaria\\Pizzaria.csproj|c:\\users\\joao_pg_rodrigues\\documents\\github\\pizzariadotnet\\pizzaria\\pizzaria\\domain\\service\\pizzadomainservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BF4CD6E8-FA8E-4435-AEE4-93E4544B909D}|Pizzaria\\Pizzaria.csproj|solutionrelative:pizzaria\\domain\\service\\pizzadomainservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,8 +19,12 @@
       "RelativeMoniker": "D:0:0:{BF4CD6E8-FA8E-4435-AEE4-93E4544B909D}|Pizzaria\\Pizzaria.csproj|solutionrelative:pizzaria\\domain\\service\\interfaces\\ipizzadomainservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BF4CD6E8-FA8E-4435-AEE4-93E4544B909D}|Pizzaria\\Pizzaria.csproj|c:\\users\\joao_pg_rodrigues\\documents\\github\\pizzariadotnet\\pizzaria\\pizzaria\\app\\services\\pizzaappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BF4CD6E8-FA8E-4435-AEE4-93E4544B909D}|Pizzaria\\Pizzaria.csproj|solutionrelative:pizzaria\\app\\services\\pizzaappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BF4CD6E8-FA8E-4435-AEE4-93E4544B909D}|Pizzaria\\Pizzaria.csproj|c:\\users\\joao_pg_rodrigues\\documents\\github\\pizzariadotnet\\pizzaria\\pizzaria\\apresentation\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF4CD6E8-FA8E-4435-AEE4-93E4544B909D}|Pizzaria\\Pizzaria.csproj|solutionrelative:pizzaria\\apresentation\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF4CD6E8-FA8E-4435-AEE4-93E4544B909D}|Pizzaria\\Pizzaria.csproj|c:\\users\\joao_pg_rodrigues\\documents\\github\\pizzariadotnet\\pizzaria\\pizzaria\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF4CD6E8-FA8E-4435-AEE4-93E4544B909D}|Pizzaria\\Pizzaria.csproj|solutionrelative:pizzaria\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BF4CD6E8-FA8E-4435-AEE4-93E4544B909D}|Pizzaria\\Pizzaria.csproj|c:\\users\\joao_pg_rodrigues\\documents\\github\\pizzariadotnet\\pizzaria\\pizzaria\\app\\services\\interfaces\\ipizzaappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -27,20 +39,8 @@
       "RelativeMoniker": "D:0:0:{BF4CD6E8-FA8E-4435-AEE4-93E4544B909D}|Pizzaria\\Pizzaria.csproj|solutionrelative:pizzaria\\infra\\repository\\interfaces\\ipizzarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BF4CD6E8-FA8E-4435-AEE4-93E4544B909D}|Pizzaria\\Pizzaria.csproj|c:\\users\\joao_pg_rodrigues\\documents\\github\\pizzariadotnet\\pizzaria\\pizzaria\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BF4CD6E8-FA8E-4435-AEE4-93E4544B909D}|Pizzaria\\Pizzaria.csproj|solutionrelative:pizzaria\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{BF4CD6E8-FA8E-4435-AEE4-93E4544B909D}|Pizzaria\\Pizzaria.csproj|c:\\users\\joao_pg_rodrigues\\documents\\github\\pizzariadotnet\\pizzaria\\pizzaria\\domain\\entity\\pizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BF4CD6E8-FA8E-4435-AEE4-93E4544B909D}|Pizzaria\\Pizzaria.csproj|solutionrelative:pizzaria\\domain\\entity\\pizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BF4CD6E8-FA8E-4435-AEE4-93E4544B909D}|Pizzaria\\Pizzaria.csproj|c:\\users\\joao_pg_rodrigues\\documents\\github\\pizzariadotnet\\pizzaria\\pizzaria\\apresentation\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BF4CD6E8-FA8E-4435-AEE4-93E4544B909D}|Pizzaria\\Pizzaria.csproj|solutionrelative:pizzaria\\apresentation\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BF4CD6E8-FA8E-4435-AEE4-93E4544B909D}|Pizzaria\\Pizzaria.csproj|C:\\Users\\joao_pg_rodrigues\\Documents\\Github\\PizzariaDotNet\\Pizzaria\\pizzaria\\apresentation\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{BF4CD6E8-FA8E-4435-AEE4-93E4544B909D}|Pizzaria\\Pizzaria.csproj|solutionrelative:pizzaria\\apresentation\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BF4CD6E8-FA8E-4435-AEE4-93E4544B909D}|Pizzaria\\Pizzaria.csproj|c:\\users\\joao_pg_rodrigues\\documents\\github\\pizzariadotnet\\pizzaria\\pizzaria\\infra\\database\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -71,12 +71,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "20250312004405_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\joao_pg_rodrigues\\Documents\\Github\\PizzariaDotNet\\Pizzaria\\Pizzaria\\Migrations\\20250312004405_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Pizzaria\\Migrations\\20250312004405_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\joao_pg_rodrigues\\Documents\\Github\\PizzariaDotNet\\Pizzaria\\Pizzaria\\Migrations\\20250312004405_InitialCreate.cs",
+              "RelativeToolTip": "Pizzaria\\Migrations\\20250312004405_InitialCreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T00:44:05.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "PizzaDomainService.cs",
               "DocumentMoniker": "C:\\Users\\joao_pg_rodrigues\\Documents\\Github\\PizzariaDotNet\\Pizzaria\\Pizzaria\\Domain\\Service\\PizzaDomainService.cs",
               "RelativeDocumentMoniker": "Pizzaria\\Domain\\Service\\PizzaDomainService.cs",
               "ToolTip": "C:\\Users\\joao_pg_rodrigues\\Documents\\Github\\PizzariaDotNet\\Pizzaria\\Pizzaria\\Domain\\Service\\PizzaDomainService.cs",
               "RelativeToolTip": "Pizzaria\\Domain\\Service\\PizzaDomainService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAhAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAABAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-11T23:47:15.723Z",
               "EditorCaption": ""
@@ -84,30 +97,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "IPizzaDomainService.cs",
-              "DocumentMoniker": "C:\\Users\\joao_pg_rodrigues\\Documents\\Github\\PizzariaDotNet\\Pizzaria\\Pizzaria\\Domain\\Service\\Interfaces\\IPizzaDomainService.cs",
-              "RelativeDocumentMoniker": "Pizzaria\\Domain\\Service\\Interfaces\\IPizzaDomainService.cs",
-              "ToolTip": "C:\\Users\\joao_pg_rodrigues\\Documents\\Github\\PizzariaDotNet\\Pizzaria\\Pizzaria\\Domain\\Service\\Interfaces\\IPizzaDomainService.cs",
-              "RelativeToolTip": "Pizzaria\\Domain\\Service\\Interfaces\\IPizzaDomainService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-11T23:47:07.292Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "PizzaAppService.cs",
               "DocumentMoniker": "C:\\Users\\joao_pg_rodrigues\\Documents\\Github\\PizzariaDotNet\\Pizzaria\\Pizzaria\\App\\Services\\PizzaAppService.cs",
               "RelativeDocumentMoniker": "Pizzaria\\App\\Services\\PizzaAppService.cs",
               "ToolTip": "C:\\Users\\joao_pg_rodrigues\\Documents\\Github\\PizzariaDotNet\\Pizzaria\\Pizzaria\\App\\Services\\PizzaAppService.cs",
               "RelativeToolTip": "Pizzaria\\App\\Services\\PizzaAppService.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAQwCAAAAAJAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBAAAABPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-11T22:49:48.983Z"
+              "WhenOpened": "2025-03-11T22:49:48.983Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "IPizzaAppService.cs",
               "DocumentMoniker": "C:\\Users\\joao_pg_rodrigues\\Documents\\Github\\PizzariaDotNet\\Pizzaria\\Pizzaria\\App\\Services\\Interfaces\\IPizzaAppService.cs",
               "RelativeDocumentMoniker": "Pizzaria\\App\\Services\\Interfaces\\IPizzaAppService.cs",
@@ -119,32 +121,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\joao_pg_rodrigues\\Documents\\Github\\PizzariaDotNet\\Pizzaria\\Pizzaria\\Program.cs",
               "RelativeDocumentMoniker": "Pizzaria\\Program.cs",
               "ToolTip": "C:\\Users\\joao_pg_rodrigues\\Documents\\Github\\PizzariaDotNet\\Pizzaria\\Pizzaria\\Program.cs",
               "RelativeToolTip": "Pizzaria\\Program.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAQwBoAAAAyAAAA",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwB4AAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-11T21:55:02.533Z"
+              "WhenOpened": "2025-03-11T21:55:02.533Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 4,
               "Title": "FrmLogin.cs",
               "DocumentMoniker": "C:\\Users\\joao_pg_rodrigues\\Documents\\Github\\PizzariaDotNet\\Pizzaria\\Pizzaria\\Apresentation\\FrmLogin.cs",
               "RelativeDocumentMoniker": "Pizzaria\\Apresentation\\FrmLogin.cs",
               "ToolTip": "C:\\Users\\joao_pg_rodrigues\\Documents\\Github\\PizzariaDotNet\\Pizzaria\\Pizzaria\\Apresentation\\FrmLogin.cs",
               "RelativeToolTip": "Pizzaria\\Apresentation\\FrmLogin.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAAXAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-11T21:54:29.513Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
+              "Title": "IPizzaDomainService.cs",
+              "DocumentMoniker": "C:\\Users\\joao_pg_rodrigues\\Documents\\Github\\PizzariaDotNet\\Pizzaria\\Pizzaria\\Domain\\Service\\Interfaces\\IPizzaDomainService.cs",
+              "RelativeDocumentMoniker": "Pizzaria\\Domain\\Service\\Interfaces\\IPizzaDomainService.cs",
+              "ToolTip": "C:\\Users\\joao_pg_rodrigues\\Documents\\Github\\PizzariaDotNet\\Pizzaria\\Pizzaria\\Domain\\Service\\Interfaces\\IPizzaDomainService.cs",
+              "RelativeToolTip": "Pizzaria\\Domain\\Service\\Interfaces\\IPizzaDomainService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T23:47:07.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "IPizzaRepository.cs",
               "DocumentMoniker": "C:\\Users\\joao_pg_rodrigues\\Documents\\Github\\PizzariaDotNet\\Pizzaria\\Pizzaria\\Infra\\Repository\\Interfaces\\IPizzaRepository.cs",
               "RelativeDocumentMoniker": "Pizzaria\\Infra\\Repository\\Interfaces\\IPizzaRepository.cs",
@@ -156,7 +172,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "PizzaRepository.cs",
               "DocumentMoniker": "C:\\Users\\joao_pg_rodrigues\\Documents\\Github\\PizzariaDotNet\\Pizzaria\\Pizzaria\\Infra\\Repository\\Implementations\\PizzaRepository.cs",
               "RelativeDocumentMoniker": "Pizzaria\\Infra\\Repository\\Implementations\\PizzaRepository.cs",
@@ -165,17 +181,6 @@
               "ViewState": "AQIAABMAAAAAAAAAAAAgwBwAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-11T22:19:58.648Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "FrmLogin.cs [Projeto]",
-              "DocumentMoniker": "C:\\Users\\joao_pg_rodrigues\\Documents\\Github\\PizzariaDotNet\\Pizzaria\\Pizzaria\\Apresentation\\FrmLogin.cs",
-              "RelativeDocumentMoniker": "Pizzaria\\Apresentation\\FrmLogin.cs",
-              "ToolTip": "C:\\Users\\joao_pg_rodrigues\\Documents\\Github\\Pizzaria\\Pizzaria\\Apresentation\\FrmLogin.cs [Projeto]",
-              "RelativeToolTip": "..\\..\\Pizzaria\\Pizzaria\\Apresentation\\FrmLogin.cs [Projeto]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-11T23:23:33.188Z"
             },
             {
               "$type": "Document",
@@ -191,7 +196,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "Pizza.cs",
               "DocumentMoniker": "C:\\Users\\joao_pg_rodrigues\\Documents\\Github\\PizzariaDotNet\\Pizzaria\\Pizzaria\\Domain\\Entity\\Pizza.cs",
               "RelativeDocumentMoniker": "Pizzaria\\Domain\\Entity\\Pizza.cs",

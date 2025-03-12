@@ -12,7 +12,18 @@ namespace Pizzaria.Domain.Service
     {
         public void Validar(Pizza pizza)
         {
-
+            if (string.IsNullOrEmpty(pizza.Nome))
+            {
+                throw new Exception("Nome é obrigatório");
+            }
+            if (pizza.Preco < 0)
+            {
+                throw new Exception("Preço precisa ser positivo");
+            }
+            if (pizza == null)
+            {
+                throw new Exception("Pizza não pode ser nula"); 
+            }
         }
     }
 }

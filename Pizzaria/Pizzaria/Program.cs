@@ -4,6 +4,8 @@ using Pizzaria.Infra.Database;
 using Pizzaria.Infra.Repository.Interfaces;
 using Pizzaria.Infra.Repository.Implementations;
 using System.Windows.Forms;
+using Pizzaria.Domain.Service.Interfaces;
+using Pizzaria.Domain.Service;
 
 namespace Pizzaria
 {
@@ -21,6 +23,7 @@ namespace Pizzaria
                 options.UseSqlite("Data Source=pizzaria.db"));
 
             services.AddScoped<IPizzaRepository, PizzaRepository>();
+            services.AddScoped<IPizzaDomainService, PizzaDomainService>();
 
             var serviceProvider = services.BuildServiceProvider();
 

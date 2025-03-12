@@ -1,5 +1,6 @@
 ﻿using Pizzaria.App.Services.Interfaces;
 using Pizzaria.Domain.Entity;
+using Pizzaria.Domain.Service.Interfaces;
 using Pizzaria.Infra.Repository.Interfaces;
 using System;
 using System.Collections.Generic;
@@ -12,8 +13,10 @@ namespace Pizzaria.App.Services
     public class PizzaAppService : IPizzaAppService
     {
         private readonly IPizzaRepository _repository;
-        public PizzaAppService(IPizzaRepository repository)
+        private readonly IPizzaDomainService _domain;
+        public PizzaAppService(IPizzaRepository repository, IPizzaDomainService domain)
         {
+            _domain = domain;
             _repository = repository;
         }
         public void AlterarPizza(int id, string nome, decimal preco)
